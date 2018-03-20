@@ -1,0 +1,11 @@
+{
+  "name": "sushi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hawkins/sushi",
+  "author": "Josh Hawkins <hawkins@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.1.2"
+  }
+}
