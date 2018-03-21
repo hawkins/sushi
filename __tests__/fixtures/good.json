@@ -1,0 +1,100 @@
+{
+  "rolls": [
+    {
+      "white rice": 1,
+      "brown rice": 0,
+      "seaweed wrap": 1,
+      "tofu wrap": 0,
+      "fried shrimp": 1,
+      "crab": 0,
+      "raw salmon": 0,
+      "avocado": 1,
+      "shredded carrot": 1,
+      "green bean": 1,
+      "apple": 0,
+      "cream cheese": 1,
+      "spicy mayo": 1,
+      "sweet chili": 1,
+      "sweet soy": 0
+    },
+    {
+      "white rice": 1,
+      "brown rice": 0,
+      "seaweed wrap": 1,
+      "tofu wrap": 0,
+      "fried shrimp": 1,
+      "crab": 0,
+      "raw salmon": 0,
+      "avocado": 1,
+      "shredded carrot": 1,
+      "green bean": 1,
+      "apple": 0,
+      "cream cheese": 1,
+      "spicy mayo": 1,
+      "sweet chili": 0,
+      "sweet soy": 1
+    },
+    {
+      "white rice": 1,
+      "brown rice": 0,
+      "seaweed wrap": 1,
+      "tofu wrap": 0,
+      "fried shrimp": 1,
+      "crab": 1,
+      "raw salmon": 0,
+      "avocado": 0,
+      "shredded carrot": 1,
+      "green bean": 1,
+      "apple": 1,
+      "cream cheese": 0,
+      "spicy mayo": 1,
+      "sweet chili": 0,
+      "sweet soy": 1
+    },
+    {
+      "white rice": 0,
+      "brown rice": 1,
+      "seaweed wrap": 0,
+      "tofu wrap": 1,
+      "fried shrimp": 0,
+      "crab": 1,
+      "raw salmon": 0,
+      "avocado": 0,
+      "shredded carrot": 1,
+      "green bean": 0,
+      "apple": 1,
+      "cream cheese": 0,
+      "spicy mayo": 0,
+      "sweet chili": 0,
+      "sweet soy": 1
+    },
+    {
+      "white rice": 0,
+      "brown rice": 1,
+      "seaweed wrap": 0,
+      "tofu wrap": 1,
+      "fried shrimp": 0,
+      "crab": 1,
+      "raw salmon": 0,
+      "avocado": 0,
+      "shredded carrot": 1,
+      "green bean": 0,
+      "apple": 1,
+      "cream cheese": 0,
+      "spicy mayo": 1,
+      "sweet chili": 0,
+      "sweet soy": 0
+    }
+  ],
+  "results": [1, 1, 0, 1, 0],
+  "newRoll": {
+    "ingredients": [
+      "white rice",
+      "seaweed wrap",
+      "fried shrimp",
+      "shredded carrot",
+      "raw salmon",
+      "sweet soy"
+    ]
+  }
+}

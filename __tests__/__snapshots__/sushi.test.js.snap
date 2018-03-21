@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sushi Roll can be described as a map of ingredients to their presence 1`] = `
+Object {
+  "apple": 0,
+  "avocado": 1,
+  "brown rice": 0,
+  "crab": 0,
+  "cream cheese": 1,
+  "fried shrimp": 1,
+  "green bean": 1,
+  "raw salmon": 0,
+  "seaweed wrap": 1,
+  "shredded carrot": 1,
+  "spicy mayo": 1,
+  "sweet chili": 1,
+  "sweet soy": 0,
+  "tofu wrap": 0,
+  "white rice": 1,
+}
+`;
+
+exports[`Sushi Roll can't be made from random junk' 1`] = `"Sushi Roll ingredients must be a subset of ALL_INGREDIENTS"`;

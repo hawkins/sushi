@@ -18,8 +18,6 @@ const train = (rolls, results) => {
     };
   });
 
-  console.log(trainingData.map(a => a.input));
-
   net.train(trainingData);
 };
 

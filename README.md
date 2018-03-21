@@ -29,6 +29,12 @@ This one's a little tricky. Basically, it boils down to this:
 
 Rinse, repeat
 
+If you're lame to have fun, just run these shell commands:
+
+```bash
+$ npm it # oh would you look at that, it's just one shell command, look at all this time I saved you so you can actually go make the damn sushi roll
+```
+
 ###### P.S.
 
 > This is a dumb joke, but I like sushi, so I'm taking my own stupid computer-generated advice whenever I order sushi. Your tastebuds may vary.
