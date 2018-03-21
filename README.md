@@ -29,7 +29,7 @@ This one's a little tricky. Basically, it boils down to this:
 
 Rinse, repeat
 
-If you're lame to have fun, just run these shell commands:
+If you're too lame to have fun, just run these shell commands:
 
 ```bash
 $ npm it # oh would you look at that, it's just one shell command, look at all this time I saved you so you can actually go make the damn sushi roll
